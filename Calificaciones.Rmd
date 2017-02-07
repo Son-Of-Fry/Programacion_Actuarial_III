@@ -1,0 +1,20 @@
+---
+title: "KArdex"
+author: "Ricardo Munguía"
+date: "6 de febrero de 2017"
+output: html_document
+---
+
+## Historial
+###______________________________
+
+* Programación Actuarial l   9
+* Intr a la Profesión Actuarial   8
+* DHPC   9
+* Conceptos de Calculo   9
+* Matemáticas Básicas   8
+* Problemas de Mat. Básicas   8
+* Programación Actuarial ll   9
+* Teoría del interes l   6
+* Microeconomía   6
+* Geometría Analítica   9
